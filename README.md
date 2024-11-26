@@ -17,9 +17,9 @@ Navigation Bar:
 
 Projects Section:
 - Highlights key projects I’ve worked on, each accompanied by:
- - Project title and description.
- - A list of technologies used.
- - An interactive image gallery, allowing users to click and enlarge project visuals in a modal.
+  - Project title and description.
+  - A list of technologies used.
+  - An interactive image gallery, allowing users to click and enlarge project visuals in a modal.
 -Animations ensure content is revealed smoothly as the user scrolls through the section.
 
 Technologies Section:
