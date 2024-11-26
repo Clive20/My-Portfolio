@@ -36,3 +36,10 @@ Built With:
 - JavaScript: Core scripting language for dynamic features.
 - HTML/CSS: The foundation for content structure and styling.
 
+# Screenshots
+![1](https://github.com/user-attachments/assets/7b3e01b7-37f9-4dc4-94f3-1267d2f1863d)
+![2](https://github.com/user-attachments/assets/086aa855-b3fa-4740-9f42-0ffa1a72e623)
+![3](https://github.com/user-attachments/assets/d3d49638-27c7-4dbc-a67b-7daefd52620d)
+![4](https://github.com/user-attachments/assets/27967c71-a96e-4432-9f28-be0b3e82864b)
+
+
