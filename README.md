@@ -12,7 +12,7 @@ Hero Section:
 - Includes a profile picture with smooth animations for added interactivity.
 
 Navigation Bar:
-- Minimalist navigation bar with links to my LinkedIn and GitHub profiles, allowing visitors to easily --- -connect with me.
+- Minimalist navigation bar with links to my LinkedIn and GitHub profiles, allowing visitors to easily connect with me.
 - Simple branding through my initials ("CK") for a professional touch.
 
 Projects Section:
