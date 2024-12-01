@@ -1,6 +1,6 @@
 # My Portfolio
 
-This portfolio website is a dynamic and visually engaging platform designed to showcase my skills, projects, and technologies. It emphasizes both functionality and aesthetics, using modern front-end development practices to deliver an exceptional user experience. The website includes multiple sections to highlight my work and expertise while reflecting a professional yet personalized style.
+This portfolio website that I built is a dynamic and visually engaging platform designed to showcase my skills, projects, and technologies. It emphasizes both functionality and aesthetics, using modern front-end development practices to deliver an exceptional user experience. The website includes multiple sections to highlight my work and expertise while reflecting a professional yet personalized style.
 
 Target Audience
 Employers, recruiters, and collaborators seeking insight into my technical abilities and professional background.
